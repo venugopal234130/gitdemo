@@ -1,0 +1,2 @@
+1.find the second highest salary from list of employee
+Ans:employees.stream().map(Employee::getSalary).distinct().sorted(Comparator.reverseOrder()).skip(1).findFirst();
