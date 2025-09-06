@@ -20,6 +20,7 @@ public class MoveZerostoEnd {
 			arr[index++]=0;
 		}
 		System.out.println(Arrays.toString(arr));
+		System.out.println("Testing Comment Added");
 	}
 
 }
