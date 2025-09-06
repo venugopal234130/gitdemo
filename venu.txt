@@ -1,2 +1,3 @@
 Hi VeNu How R U ?
 Lets add the feature from new branch(sample)
+This is from the second sample feature
